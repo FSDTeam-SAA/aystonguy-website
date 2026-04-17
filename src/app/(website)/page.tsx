@@ -1,7 +1,9 @@
+import AyestonHome from "./_components/Ayestonhome";
+
 export default function Home() {
   return (
     <div>
-      <p>paGe</p>
+      <AyestonHome />
     </div>
   );
 }
